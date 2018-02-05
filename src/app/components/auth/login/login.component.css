@@ -1,0 +1,372 @@
+.login-page{
+    background-image: url(../../../../assets/dist/images/login-banner.png);
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
+.content{
+    /* background-image: url(../../assets/dist/images/login-color-bg.png);
+    background-repeat: no-repeat, repeat;
+      /* min-height: 100vh; */
+    /* background-repeat: no-repeat; */
+    background: #fb4d03;
+      opacity: 0.9;
+      padding-bottom: 42.1px;
+      /* margin-right: -200px!important;
+      margin-left: 230px!important;  */
+    
+  }
+  .margin-left-10{
+    /* margin-left: -60px!important; */
+    padding-top: 20px;
+  }
+  .header-text{
+      font-size: 18px;
+      font-family: "Lato";
+      color: rgb(255, 255, 255);
+      text-align: center;
+      padding-top: 10%;
+    }
+    .logo-sec{
+      text-align: center;
+    }
+
+    .md-form label{
+        font-size: 15px;
+    font-family: "Lato";
+    color: rgb(255, 255, 255);
+    }
+
+    .md-form label.active{
+        color: rgb(255, 255, 255);
+        
+    }
+    .md-form input::placeholder{
+        
+      font-size: 12px;
+      text-align: center;
+      font-family: "Lato";
+      color:  rgba(255,255,255,0.7);
+      font-style: italic;
+      font-weight: bold;
+      }
+
+      .sign-up input{
+        font-size: 15px;
+        color: #fff;
+        font-weight: bold;
+        text-align: center;
+       
+        margin-top: 90px;
+    }
+
+    fieldset legend{
+      padding-top: 50px;
+      font-size: 15px!important;
+    }
+
+      /* .signin-form{
+          display: none;
+      } */
+      .signin-form .btn-center-log{
+          text-align: center;
+      }
+
+      .signin-form .btn-center-log button{
+        background: red;
+        height: 40px;
+        width: 35%;
+        font-size: 11px;
+        font-family: "Lato";
+        background: #fff;
+        color: rgb(255, 77, 3)!important;
+        border-radius: 0px;
+        font-weight: bold;
+        /* display:block;
+          margin: 0 auto;*/
+          
+  
+      }
+
+      .forgot {
+        margin-top:0px;
+        text-align:right;
+        font-size: 12px;
+      }
+      .forgot a{
+       color: #fff;
+       font-size: 12px;
+      }
+
+      fieldset {
+        text-align: center;
+    }
+
+    fieldset label{
+        display: inline-block;
+        font-size: 12px;
+        margin-right: 3%;
+        font-family: "Lato";
+        color: rgb(255, 255, 255)!important;
+    }
+
+    input, input[placeholder]{
+                   
+            text-align:center;
+            font-size: 12px;
+            color: rgb(255, 255, 255);
+        
+        }
+
+    fieldset .register{
+        font-size: 12px;
+        font-family: "Lato";
+        font-weight: bold;
+        color: rgb(255, 255, 255);
+      }
+
+    .btn-center{
+        text-align: center!important;
+        display: inline;
+        
+    }
+    .btn-center button{
+        padding: 0.85rem 0.13rem!important;
+    }
+     
+    .login-form{
+        /* padding-left: 10%; */
+        padding-top: 3%;
+        
+    }
+    .login-form label{
+      width: 100%;
+      font-size: 12px;
+      font-family: "Lato";
+      color: rgb(255, 255, 255);
+      text-align: center;
+    }
+    .login-form input{
+        border-radius: 8px;
+        border:none;
+        background-color: rgba(255,255,255,0.7);
+        width: 80% !important;
+        margin: 0 auto;
+        width: 100%;
+    }
+    
+    .login-form button{
+      width: 35%;
+      height: 40px;
+      font-size: 11px;
+      font-family: "Lato";
+      background: #fff;
+      color: rgb(255, 77, 3)!important;
+      border-radius: 0px;
+      font-weight: bold;
+      /* display:block;
+        margin: 0 auto;*/
+        margin-left: 9.5%;
+    }
+  .login-form button:hover{
+        background-color: rgba(255,255,255,0.4) !important;
+        color: white !important;
+    }
+   .terms-text{
+        padding-top: 20px;
+    text-align: center;
+      font-size: 12px;
+      font-family: "Lato";
+      color: rgb(255, 255, 255);
+      font-style: italic;
+    
+    }
+   hr{
+        margin-top:30px !important;
+        width: 100%;
+        border: 0.5px solid #fff;
+    }
+    .earn-extra-text{
+      font-size: 18px;
+      font-family: "Lato";
+      color: rgb(255, 255, 255);
+      text-align: center;
+      font-weight: bold;
+      padding-top: 30px;
+    }
+    .facebook-btn{
+      font-size: 12px;
+      font-family: "Lato";
+      color: rgb(255, 255, 255);
+      font-weight: bold;
+      text-align: center;
+      padding-bottom: 30px;
+    }
+    .facebook-btn a{
+        font-size: 12px;
+    }
+    .facebook-btn .btn-block{
+        width: 50%;
+        display: block;
+        margin:0 auto;
+        margin-top: 5%;
+        text-align: center;  
+       
+    }
+    .facebook-btn .btn-block .fa{
+        width: 20%;
+        padding-top: 8px;
+        font-size: 20px;
+      
+    }
+  
+     .worry-text{
+      font-size: 12px;
+      font-family: "Lato";
+      color: rgb(255, 255, 255);
+      font-style: italic;
+      text-align: center;
+      padding-top: 3%;
+    }
+    .hidden-xs .login-btn{
+      width: 120px;
+      height: 38px;
+      font-size: 13px;
+      font-family: "Lato";
+      color: rgb(255, 77, 3);
+      font-weight: bold;
+      text-align: center;
+      margin-top: 25px;
+      margin-left: 25px;
+      background-color: white;
+      border: none;
+      border-radius: 5px;
+      box-shadow: 2px 2px 2px #98999b;
+    }
+    .visible-xs .login-btn{
+      width: 100%;
+      height: 38px;
+      font-size: 13px;
+      font-family: "Lato";
+      color: rgb(255, 77, 3);
+      font-weight: bold;
+      text-align: center;
+      margin-left: 25px;
+      background-color: white;
+      border: none;
+      border-radius: 5px;
+      box-shadow: 2px 2px 2px #98999b;
+    }
+  
+    .login-form .register{
+      font-size: 12px;
+      font-family: "Lato";
+      color: rgb(255, 255, 255);
+    }
+  
+    .login-form .center{
+      text-align: center;
+    }
+  
+    .form-group .user-ad{
+        width: 10%!important;
+       
+    }
+  
+    .form-group span{
+  
+      font-family: "Lato";
+      color: rgb(255, 255, 255)!important;
+      
+  
+    }
+  
+    
+    
+    .margin-top-200{
+      margin-top: 10px;
+    }
+    .custom-select-boxes-parent{
+      text-align: center;
+      margin-bottom: 15px;
+    }
+      
+    .custom-select-boxes-parent .custom-select-boxes-child {
+      border:none;
+      background-color: white;
+      height: 35px;
+        display: inline-block;
+        width: 18%;
+    }
+    .custom-select-boxes-parent .custom-select-boxes-child p{
+      vertical-align: middle;
+      display: table-cell;
+      font-size: 10px;
+      font-weight: bold;
+      font-family: "Lato";
+      color: rgb(26, 26, 26);
+      width: 18%;
+      padding: 10px;
+      text-align: left;
+    }
+    .custom-select-boxes-parent .custom-select-boxes-child p i{
+      color:#ff4d03;
+      float:right;
+      font-size:13px;
+    }
+    .custom-select-boxes-parent .custom-select-boxes-child img{
+      float: right !important;
+      vertical-align: middle;
+    }
+  
+  
+    ::-webkit-scrollbar-track {
+      -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+      border-radius: 10px;
+      background-color: #F5F5F5;
+    }
+    ::-webkit-scrollbar {
+      width: 6px;
+      height: 6px;
+      background-color: #F5F5F5;
+    }
+    body::-webkit-scrollbar {
+      width: 10px;
+      background-color: #F5F5F5;
+    }
+    ::-webkit-scrollbar-thumb {
+      border-radius: 10px;
+      -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+      background-color: #fb4d03;
+    }
+  
+    @media all and (max-width: 1140px) {
+      
+
+      .facebook-btn .btn-block{
+        width: 100%;
+    }
+
+    .facebook-btn .btn-block .fa{
+        width: 14%;
+        padding-top: 8px;
+        font-size: 20px;
+      
+    }
+
+      .login-form button{
+        width: 39%;
+        height: 40px;
+        font-size: 11px;
+        font-family: "Lato";
+        background: #fff;
+        color: rgb(255, 77, 3)!important;
+        border-radius: 0px;
+        font-weight: bold;
+        /* display:block;
+          margin: 0 auto;*/
+          margin-left: 6%;
+      }
+    
+    }
+
+    

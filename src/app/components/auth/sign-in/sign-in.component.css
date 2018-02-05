@@ -1,0 +1,59 @@
+.md-form label{
+    font-size: 15px;
+font-family: "Lato";
+color: rgb(255, 255, 255);
+}
+
+.md-form label.active{
+    color: rgb(255, 255, 255);
+    
+}
+
+.md-form input::placeholder{
+        
+    font-size: 12px;
+    text-align: center;
+    font-family: "Lato";
+    color:  rgba(255,255,255,0.7);
+    font-style: italic;
+  }
+.signin-form .btn-center-log{
+    text-align: center;
+}
+
+.signin-form input{
+    font-size: 15px;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+   
+    margin-top: 90px;
+}
+
+
+
+.signin-form .btn-center-log button{
+  background: red;
+  height: 40px;
+  width: 35%;
+  font-size: 15px;
+  font-family: "Lato";
+  background: #fff;
+  color: rgb(255, 77, 3)!important;
+  border-radius: 0px;
+  font-weight: bold;
+  /* display:block;
+    margin: 0 auto;*/
+    
+
+}
+
+.forgot {
+  margin-top:0px;
+  text-align:right;
+  font-size: 13px;
+}
+.forgot a{
+ color: #fff;
+ font-size: 13px;
+}

@@ -1,0 +1,63 @@
+
+.interest{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+    
+  }
+.custom-select-boxes-parent{
+	text-align: center;
+}
+	
+.custom-select-boxes-parent .custom-select-boxes-child {
+	border:none;
+	background-color: white;
+	height: 35px;
+    display: inline-block;
+  	width: 18%;
+}
+.custom-select-boxes-parent .custom-select-boxes-child p{
+  vertical-align: middle;
+  display: table-cell;
+  font-size: 10px;
+  font-weight: bold;
+  font-family: "Lato";
+  color: rgb(26, 26, 26);
+  width: 18%;
+  padding: 10px;
+  text-align: left;
+}
+.custom-select-boxes-parent .custom-select-boxes-child p i{
+	color:#ff4d03;
+	float:right;
+	font-size:13px;
+}
+.custom-select-boxes-parent .custom-select-boxes-child img{
+	float: right !important;
+	vertical-align: middle;
+}
+.campaigns-audience-page  form  .button-parent{
+	text-align: center;
+}
+.campaigns-audience-page  form  button{
+	  width: 20%;
+  height: 32px;
+	border: none;
+	color: white;
+	background-color: #ff4d03;
+	border-radius: 5px;
+	display: inline-block;
+	margin:0 auto;
+	margin-top: 5%;
+}
+.campaigns-audience-page  form  button:hover{
+	background-color: #FC9764;
+	color: white;
+}
+
+@media all and (max-width: 1140px) {
+    .custom-select-boxes-parent .custom-select-boxes-child{
+      width: 30%;
+    }
+}

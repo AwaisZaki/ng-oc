@@ -1,0 +1,1932 @@
+.orange-color {
+	color: #fb4d03 !important;
+}
+.color-orange {
+	color: #fb4d03 !important;
+}
+.bg-orange {
+	background-color: #fb4d03 !important;
+}
+.bg-orange-opacity {
+	background-color: rgba(255, 77, 3, 0.7);
+}
+.center-text {
+	text-align: center !important;
+}
+.white-color {
+	color: white !important;
+}
+.bg-white {
+	background-color: white !important;
+}
+.table {
+	overflow-x: visible !important;
+}
+.padding-zero {
+	padding: 0 !important;
+}
+.padding-top0 {
+	padding-top: 0px;
+}
+.padding-top10 {
+	padding-top: 10px;
+}
+.padding-top20 {
+	padding-top: 20px;
+}
+.padding-top30 {
+	padding-top: 30px;
+}
+.padding-top40 {
+	padding-top: 40px;
+}
+.padding-left10 {
+	padding-left: 10px;
+}
+.margin-left5 {
+	margin-left: 5px;
+}
+.margin-left10 {
+	margin-left: 10px;
+}
+.margin-top10 {
+	margin-top: 10px;
+}
+.margin-top10per{
+	margin-top: 10%;
+}
+.padding-left5 {
+	padding-left: 5px;
+}
+.padding-left5per {
+	padding-left: 5%;
+}
+.padding-left15per {
+	padding-left: 15%;
+}
+.padding-left20per {
+	padding-left: 20%;
+}
+.padding-top10per {
+	padding-top: 10%;
+}
+.padding-left30 {
+	padding-left: 30px;
+}
+.padding-10 {
+	padding: 10% 0 10% 0 !important;
+}
+.padding-15 {
+	padding: 15% 0 15% 0 !important;
+}
+.border-top {
+	border-top: 1px white !important;
+}
+.border-bottom {
+	border-bottom: 1px white !important;
+}
+.border-left {
+	border-left: 1px solid #e8e9ea;
+}
+.five-col-table tbody tr td:nth-child(2) {
+	word-break: break-all !important;
+}
+.clear {
+	clear: both;
+	overflow: hidden;
+}
+.logo {
+	padding: 5% 0 5% 0;
+	text-align: center;
+}
+.login-details {
+	padding: 10% 0 10% 0;
+}
+.login-person {
+	font-size: 11px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+	line-height: 1.2;
+	text-align: center;
+	padding-left: 10px;
+}
+.sidebar-links {
+	font-size: 11px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+	line-height: 1.2;
+	text-align: center;
+	padding: 2% 0 10% 0 !important;
+}
+#side-menu li img {
+	margin: 0 auto;
+	display: block;
+	padding-top: 10%;
+	padding-bottom: 10px;
+}
+#side-menu li:hover {
+	background-color:#fc9764 !important;
+}
+#side-menu li:hover a {
+	color: white;
+	background-color: #fc9764 !important;
+}
+#side-menu li.active {
+	background-color: white !important;
+}
+#side-menu li.active a {
+	color: #fb4d03;
+	background-color: white !important;
+}
+.main-background-color {
+	background-color: #f1f2f2;
+	min-height: 700px;
+}
+.welcome-text {
+	font-size: 25.707px;
+	font-family: "Crete Round";
+	color: rgb(0, 0, 0);
+	line-height: 1.2;
+	text-align: left;
+}
+.top-boxes {
+	border: none;
+	min-height: 50px;
+	background-color: white !important;
+	box-shadow: 2px 2px 2px #e1e2e2;
+}
+.popular-boxes {
+	border: none;
+	min-height: 185px;
+	background-color: white !important;
+	box-shadow: 2px 2px 2px #e1e2e2;
+}
+.popular-boxes img {
+	width: 97%;
+}
+.popular-boxes p {
+	font-weight: bold;
+	font-size: 9px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	padding-left: 2px;
+}
+.top-boxes img {
+	padding-left: 5%;
+}
+.top-boxes #text1 {
+	padding-left: 10%;
+	font-size: 12px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	font-weight: bold;
+	line-height: 1.2;
+}
+.top-boxes #text2 {
+	/*padding-top: 2%;*/
+	float: right;
+	padding-right: 10%;
+	font-size: 12px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	font-weight: bold;
+	/*line-height: 1.2;*/
+	vertical-align: middle;
+}
+.number {
+	font-size: 16.31px !important;
+	font-family: "Lato";
+	color: rgb(255, 77, 3);
+	font-weight: bold;
+	color: #fb4d03 !important;
+}
+.tasks-available-box {
+	background-color: white;
+	width: 100%;
+	min-height: 435px;
+	box-shadow: 2px 2px 2px #e1e2e2;
+	margin-left: 1.4%;
+}
+.tasks-available-box p {
+	font-size: 12px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	font-weight: bold;
+	line-height: 1.2;
+	text-align: left;
+	padding-top: 15px;
+}
+.tasks-available-box button {
+	font-size: 9px;
+	border: none;
+	background-color: transparent;
+	font-family: "Lato";
+	color: rgb(109, 110, 113);
+	font-weight: bold;
+	line-height: 3;
+	padding-top: 5%;
+}
+.popular-activities-box {
+	background-color: #6d6e71;
+	min-height: 35px;
+	width: 94%;
+	padding: 1% 0 1% 0;
+	margin-left: 3%
+}
+.popular-activities-box p {
+	font-size: 12px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+	font-weight: bold;
+	line-height: 1.2;
+	padding: 2% 0 0 1%;
+}
+.popular-activities-box button {
+	font-size: 9px;
+	border: none;
+	background-color: transparent;
+	font-family: "Lato";
+	color: white;
+	font-weight: bold;
+	line-height: 3;
+	padding-top: 0 !important;
+}
+hr {
+	margin-top: 0 !important;
+}
+.block-inline-parent {
+	width: 100%;
+}
+.block-inline-child1 {
+	display: inline-block;
+	width: 50%;
+	float: left;
+}
+.block-inline-child2 {
+	display: inline-block;
+	width: 49%;
+	float: left;
+}
+.block-inline-child3 {
+	display: inline-block;
+	width: 25%;
+	float: left;
+}
+.block-inline-child4 {
+	display: inline-block;
+	width: 25%;
+	float: left;
+}
+.block-inline-child5 {
+	display: inline-block;
+	width: 25%;
+	float: left;
+}
+.block-inline-child6 {
+	display: inline-block;
+	width: 25%;
+	float: left;
+}
+.tasks-sec {
+	width: 100%;
+}
+.tasks-img {
+	width: 48%;
+	float: left;
+	display: inline-block;
+}
+.tasks-text {
+	width: 33%;
+	float: right;
+	display: inline-block;
+}
+.tasks-text p {
+	font-size: 9px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	line-height: 1.2;
+	padding-top: 0 !important;
+}
+.past-activities-box {
+	background-color: #6d6e71;
+	height: 35px;
+	width: 100%;
+}
+.past-activities-box p {
+	font-size: 12px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+	font-weight: bold;
+	line-height: 1.2;
+	padding: 1% 0 0 1%;
+}
+.table-1 span {
+	font-size: 12px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	line-height: 1.2;
+}
+#page-wrapper .table tr th {
+	font-size: 12px;
+	font-family: "Lato";
+	color: rgb(109, 110, 113);
+	line-height: 1.2;
+	text-align: left;
+	font-weight: bold;
+}
+#page-wrapper .table tr td {
+	font-size: 10px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	line-height: 1.2;
+	text-align: left;
+	font-weight: bold;
+}
+#page-wrapper .table {
+	display: inline-block;
+	vertical-align: top;
+}
+/*#page-wrapper .table thead,
+tr,
+tbody {
+	display: inline-block;
+	width: 100%;
+}*/
+.dashboard .five-col-table thead tr th:first-child {
+	width: 10%;
+}
+.dashboard .five-col-table thead tr th:nth-child(2) {
+	width: 30%;
+}
+.dashboard .five-col-table thead tr th:nth-child(3) {
+	width: 20%;
+}
+.dashboard .five-col-table thead tr th:nth-child(4) {
+	width: 30%;
+}
+.dashboard .five-col-table thead tr th:last-child {
+	width: 10%;
+}
+.dashboard .five-col-table tbody tr td:first-child {
+	width: 10%;
+}
+.dashboard .five-col-table tbody tr td:nth-child(2) {
+	width: 30%;
+}
+.dashboard .five-col-table tbody tr td:nth-child(3) {
+	width: 20%;
+}
+.dashboard .five-col-table tbody tr td:nth-child(4) {
+	width: 30%;
+}
+.dashboard .five-col-table tbody tr td:last-child {
+	width: 10%;
+}
+.dashboard .three-col-table thead tr th:first-child {
+	width: 43%;
+}
+.dashboard .three-col-table thead tr th:nth-child(2) {
+	width: 18%;
+}
+.dashboard .three-col-table thead tr th:last-child {
+	width: 27%;
+}
+.dashboard .three-col-table tbody tr td:first-child {
+	width: 55%;
+}
+.three-col-table tbody tr td:nth-child(2) {
+	width: 33%;
+}
+.dashboard .three-col-table tbody tr td:last-child {
+	width: 33%;
+}
+.dashboard .two-col-table thead tr th:first-child {
+	width: 75%;
+}
+.dashboard .two-col-table thead tr th:last-child {
+	width: 25%;
+}
+.dashboard .two-col-table tbody tr td:first-child {
+	width: 90%;
+}
+.dashboard .two-col-table tbody tr td:last-child {
+	width: 10%;
+}
+.table-spacing {
+	width: 100%;
+}
+.table-spacing1 {
+	width: 35%;
+	display: inline-block;
+	float: left;
+	padding-left: 5px;
+}
+.table-spacing2 {
+	width: 30%;
+	display: inline-block;
+	float: left;
+	padding-left: 5px;
+}
+.table-spacing3 {
+	width: 35%;
+	display: inline-block;
+	float: left;
+	padding-left: 5px;
+}
+.last-table-spacing {
+	width: 35%;
+	display: inline-block;
+	float: left;
+	padding-left: 5px;
+	vertical-align: top;
+}
+.table-spacing1 .nav-tabs li a {
+	font-size: 10px !important;
+	color: #999b9e;
+}
+.table-spacing1 .panel-body .table {
+	height: 150px !important;
+}
+.table-spacing2 .panel-body .table {
+	height: 185px !important;
+}
+.table-spacing1 .nav-tabs li.active a {
+	color: black;
+}
+.last-table-spacing .table-responsive {
+	overflow-x: visible !important;
+}
+.last-table-spacing .left {
+	background-image: none !important;
+	color: grey !important;
+}
+.last-table-spacing .right {
+	background-image: none !important;
+	color: grey !important;
+}
+.last-table-spacing .panel-body .text {
+	font-size: 7px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	line-height: 1.2;
+	padding-top: 10%;
+	margin-bottom: 5%;
+}
+.last-table-spacing .panel-body .date {
+	font-size: 6px;
+	font-family: "Lato";
+	color: rgb(109, 110, 113);
+	line-height: 1.2;
+	margin-bottom: 5%;
+}
+.last-table-spacing .panel-body .coins-text {
+	font-size: 6px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	line-height: 1.2;
+}
+.earn-page-sliders-box {
+	width: 100%;
+}
+.earn-page-sliders-box .table-responsive {
+	overflow-x: visible !important;
+}
+.earn-page-sliders-box .left {
+	background-image: none !important;
+	color: grey !important;
+}
+.earn-page-sliders-box .right {
+	background-image: none !important;
+	color: grey !important;
+}
+.earn-page-sliders-box .panel-body .text {
+	font-size: 7px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	line-height: 1.2;
+	padding-top: 10%;
+	margin-bottom: 5%;
+}
+.earn-page-sliders-box .panel-body .date {
+	font-size: 6px;
+	font-family: "Lato";
+	color: rgb(109, 110, 113);
+	line-height: 1.2;
+	margin-bottom: 5%;
+}
+.earn-page-sliders-box .panel-body .coins-text {
+	font-size: 6px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	line-height: 1.2;
+}
+.earn-page .panel-body .table {
+	height: 103px !important;
+}
+.earn-page .five-col-table thead tr th:first-child {
+	width: 10%;
+}
+.earn-page .five-col-table thead tr th:nth-child(2) {
+	width: 30%;
+}
+.earn-page .five-col-table thead tr th:nth-child(3) {
+	width: 20%;
+}
+.earn-page .five-col-table thead tr th:nth-child(4) {
+	width: 30%;
+}
+.earn-page .five-col-table thead tr th:last-child {
+	width: 10%;
+}
+.earn-page .five-col-table tbody tr td:first-child {
+	width: 10%;
+}
+.earn-page .five-col-table tbody tr td:nth-child(2) {
+	width: 30%;
+}
+.earn-page .five-col-table tbody tr td:nth-child(3) {
+	width: 20%;
+}
+.earn-page .five-col-table tbody tr td:nth-child(4) {
+	width: 30%;
+}
+.earn-page .five-col-table tbody tr td:last-child {
+	width: 10%;
+}
+.custom-tabs .nav-tabs li a {
+	font-size: 10px !important;
+	color: #999b9e;
+}
+.custom-tabs .nav-tabs li.active a {
+	color: black;
+}
+.redeem-page .payment-boxes {
+	border: none;
+	height: 95px;
+	background-color: white !important;
+	box-shadow: 2px 2px 2px #e1e2e2;	
+}
+.redeem-page .payment-boxes:hover {
+	background-color: #fb4d03 !important;
+}
+.redeem-page .payment-boxes:hover p {
+	color: white !important;
+}
+.redeem-page .payment-boxes p {
+	padding-left: 10px;
+	font-size: 16.271px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	line-height: 1.659;
+	vertical-align: middle;
+	display: table-cell;
+	height: 100px;
+}
+.redeem-page .payment-boxes img {
+	padding-top: 20px;
+	height: 100%;
+}
+.redeem-page .payment-box-parent {
+	width: 100%;
+	clear: both;
+	overflow: hidden;
+}
+.redeem-page .payment-box-child1 {
+	width: 55%;
+	float: left;
+}
+.redeem-page .payment-box-child2 {
+	width: 45%;
+	float: left;
+}
+.redeem-page-sliders-box {
+	width: 100%;
+}
+.redeem-page-sliders-box .table-responsive {
+	overflow-x: visible !important;
+}
+.redeem-page-sliders-box .left {
+	background-image: none !important;
+	color: grey !important;
+}
+.redeem-page-sliders-box .right {
+	background-image: none !important;
+	color: grey !important;
+}
+.redeem-page-sliders-box .panel-body .text {
+	font-size: 7px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	line-height: 1.2;
+	padding-top: 10%;
+	margin-bottom: 5%;
+}
+.redeem-page-sliders-box .panel-body .date {
+	font-size: 6px;
+	font-family: "Lato";
+	color: rgb(109, 110, 113);
+	line-height: 1.2;
+	margin-bottom: 5%;
+}
+.redeem-page-sliders-box .panel-body .coins-text {
+	font-size: 6px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	line-height: 1.2;
+}
+#easypaisa-modal .modal-dialog {
+	width: 25%;
+	margin-top: 7%;
+}
+#easypaisa-modal .modal-header p {
+	font-size: 20px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+	line-height: 1.5;
+	text-align: left;
+}
+#easypaisa-modal .modal-header,
+.modal-footer {
+	border: none !important;
+}
+#easypaisa-modal .modal-title {
+	padding-top: 5%;
+}
+#easypaisa-modal .modal-body p {
+	font-size: 14px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+}
+#easypaisa-modal .modal-body label {
+	font-size: 12px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+}
+#easypaisa-modal .modal-body .text p {
+	margin: 0 0 3px 0 !important;
+}
+#easypaisa-modal .modal-body .text input {
+	border: none;
+	border-bottom: 1px solid #ffffff;
+	background-color: transparent;
+	margin-bottom: 15px;
+	width: 85%;
+}
+#easypaisa-modal .modal-footer {
+	padding: 15px 0 30px 0 !important;
+	text-align: center !important;
+}
+#easypaisa-modal .modal-footer button {
+	border: none;
+	background-color: white;
+	color: #ff4d03;
+	height: 30px;
+	width: 50%;
+	border-radius: 7px;
+	font-size: 12.245px;
+	font-family: "Lato";
+	margin-left: -15% !important;
+}
+#recharge-modal .modal-dialog {
+	width: 25%;
+	margin-top: 4%;
+}
+#recharge-modal .modal-header p {
+	font-size: 20px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+	line-height: 1.5;
+	text-align: left;
+}
+#recharge-modal .modal-header,
+.modal-footer {
+	border: none !important;
+}
+#recharge-modal .modal-title {
+	padding-top: 5%;
+}
+#recharge-modal .modal-body p {
+	font-size: 14px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+}
+#recharge-modal .modal-body label {
+	font-size: 12px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+}
+#recharge-modal .modal-body .text p {
+	margin: 0 0 3px 0 !important;
+}
+#recharge-modal .modal-body .text input {
+	border: none;
+	border-bottom: 1px solid #ffffff;
+	background-color: transparent;
+	margin-bottom: 15px;
+	width: 85%;
+}
+#recharge-modal .modal-footer {
+	padding: 15px 0 30px 0 !important;
+	text-align: center !important;
+}
+#recharge-modal .modal-footer button {
+	border: none;
+	background-color: white;
+	color: #ff4d03;
+	height: 30px;
+	width: 50%;
+	border-radius: 7px;
+	font-size: 12.245px;
+	font-family: "Lato";
+	margin-left: -15% !important;
+}
+.my-account-page .my-account-boxes button {
+	border: none;
+	height: 40px;
+	width: 100% !important;
+	box-shadow: 2px 2px 2px #e1e2e2;
+	font-size: 13px;
+	font-family: "Lato";
+	font-weight: bold;
+	background-color: #e6e7e8 !important;
+	color: #a7a9ac !important;
+}
+.my-account-page .main-background-color .active button {
+	background-color:white !important;
+	color: black !important;
+	border: none;
+	height: 40px;
+	width: 100% !important;
+	box-shadow: 2px 2px 2px #e1e2e2;
+	font-size: 13px;
+	font-family: "Lato";
+	font-weight: bold;
+}
+.my-account-page .account-info p {
+	font-size: 21px;
+	font-family: "Crete Round";
+	color: rgb(0, 0, 0);
+}
+.my-account-page .member-section p {
+	font-size: 12px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	font-weight: bold;
+}
+.my-account-page .img-sec {
+	display: inline-block;
+}
+.my-account-page .img-sec button {
+	border: none;
+	border-radius: 5px;
+	background-color: white !important;
+	font-size: 10px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	width: 100%;
+	display: inline-block;
+	margin-left: -12%;
+}
+.my-account-page .img-sec button:last-child {
+	border: none;
+	border-radius: 5px;
+	background-color: #ff4d03!important;
+	color: white !important;
+	font-size: 9.245px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+	width: 100%;
+	display: inline-block;
+	margin-top: 70%;
+	margin-left: -12%;
+}
+.my-account-page .form-inline span {
+	font-size: 12px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	font-weight: bold;
+	/* padding-top: 10px;*/
+}
+.my-account-page .form-inline .small-text {
+	font-size: 9px;
+	font-family: "Lato";
+	color: rgb(255, 77, 3);
+}
+.my-account-page .form-inline .display input {
+	border: none;
+	border-bottom: 1px solid #f05023;
+	width: 100%;
+	background-color: transparent;
+	margin: 10px 0 10px 0;
+}
+
+/*.my-account-page .form-inline .display-2 input:last-child{
+	padding-left: 50% !important;
+}*/
+
+.my-account-page .form-inline .display,
+.display-2 {
+	display: inline-block;
+	width: 45%;
+}
+.my-account-page .form-inline button {
+	border: none;
+	background-color: #ff4d03;
+	border-radius: 5px;
+	width: 50%;
+	height: 25px;
+	font-size: 9.245px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+	margin-left: 60%
+}
+.my-account-page .medium-text {
+	font-size: 12px;
+	font-family: "Lato";
+	color: rgb(26, 26, 26);
+	font-weight: bold;
+}
+.my-account-page .second-form .search-bar-parent {
+	position: relative;
+	width: 100%;
+}
+.my-account-page .second-form .search-bar-parent {
+	
+}
+.my-account-page .second-form .search-bar-child1 {
+	width: 90%;
+	display: inline-block;
+	float: left;
+}
+.my-account-page .second-form .search-bar-child2 {
+	width: 8%;
+	display: inline-block;
+	float: left;
+}
+.my-account-page .second-form .dropdown {
+	position: static !important;
+	margin-left: -5px;
+}
+.my-account-page .second-form .stylish-input-group {
+	width: 100%;
+}
+.my-account-page .second-form .stylish-input-group input {
+	border: none;
+	box-shadow: none;
+	border-bottom: 2px solid #ff4d03;
+	border-radius: 0;
+	background-color: transparent;
+}
+.my-account-page .second-form .dropdown button {
+	border: none;
+	box-shadow: none;
+	background-color: transparent;
+	color: #ff4d03;
+	font-size: 25px;
+	border-bottom: 2px solid #ff4d03;
+	margin-top: -5px;
+}
+.my-account-page .second-form .dropdown-menu {
+	border-radius: 0;
+	width: 93%;
+	background-color: white;
+	top: 32px !important;
+}
+.my-account-page .second-form .dropdown-menu .sub-menu {
+	border-radius: 0;
+	width: 50%;
+	background-color: white;
+}
+.my-account-page .second-form .dropdown-menu li {
+	height: 45px;
+	border-bottom: 1px solid #e7e8e8;
+}
+.my-account-page .second-form .dropdown-menu li a {
+	font-size: 15px;
+	font-family: "Montserrat";
+	color: rgb(0, 0, 0);
+	padding: 10px;
+}
+.my-account-page .second-form .dropdown-menu>li:hover>a {
+	color: white;
+	background-color: #ff4d03;
+}
+.my-account-page .second-form .dropdown-menu li:last-child {
+	border: none;
+}
+.my-account-page .second-form .dropdown-menu .sub-menu {
+	visibility: hidden;
+}
+.my-account-page .second-form .dropdown-menu li:hover .sub-menu {
+	visibility: visible;
+}
+.my-account-page .second-form .dropdown-menu li:hover .sub-menu {
+	left: auto;
+	right: 0 !important;
+	margin-right: -10px;
+}
+.my-account-page .second-form input::placeholder {
+	font-size: 9px;
+	font-family: "Lato";
+	color: rgb(109, 110, 113);
+}
+.my-account-page .second-form button:last-child {
+	border: none;
+	background-color: #ff4d03;
+	border-radius: 5px;
+	width: 140%;
+	height: 25px;
+	font-size: 9.245px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+	margin-left: 5px;
+}
+.my-account-page .third-form input {
+	border: none;
+	border-bottom: 1px solid #f05023;
+	width: 100%;
+	background-color: transparent;
+	margin: 10px 0 10px 0;
+}
+.my-account-page .third-form button {
+	border: none;
+	background-color: #ff4d03;
+	border-radius: 5px;
+	width: 16%;
+	height: 25px;
+	font-size: 9.245px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+	float: right;
+	margin: 10px 40px 0 0;
+}
+html,body{
+	min-height: 100vh;
+}
+
+.login-page{
+	background-image:  url(../images/login-color-bg.png), url(../images/login-banner.png);
+	 background-repeat: no-repeat, repeat;
+	min-height: 100vh;
+	background-repeat: no-repeat;
+
+}
+
+.login-page .header-text{
+  font-size: 18px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding-top: 10%;
+}
+.login-page .login-form{
+	padding-left: 10%;
+	padding-top: 3%;
+}
+.login-page .login-form label{
+	
+  font-size: 12px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+}
+.login-page .login-form input{
+	border-radius: 8px;
+	border:none;
+	background-color: rgba(255,255,255,0.7);
+	width: 90% !important;
+}
+.login-page .login-form input::placeholder{
+	
+  font-size: 12px;
+  font-family: "Lato";
+  color: #9ca3af;
+  font-style: italic;
+}
+.login-page .login-form button{
+  width: 50%;
+  height: 37px;
+  font-size: 11px;
+  font-family: "Lato";
+  color: rgb(255, 77, 3);
+  border-radius: 10px;
+  font-weight: bold;
+  /* display:block;
+    margin: 0 auto;*/
+    margin-left: 20%;
+}
+.login-page .login-form button:hover{
+	background-color: rgba(255,255,255,0.4) !important;
+	color: white !important;
+}
+.login-page .terms-text{
+	padding-top: 20px;
+text-align: center;
+  font-size: 12px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-style: italic;
+
+}
+.login-page hr{
+	margin:30px !important;
+}
+.login-page .earn-extra-text{
+  font-size: 18px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-weight: bold;
+}
+.login-page .facebook-btn{
+  font-size: 12px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-align: center;
+}
+.login-page .facebook-btn .btn-block{
+	width: 57%;
+	display: block;
+	margin:0 auto;
+	margin-top: 5%;
+}
+.login-page .worry-text{
+  font-size: 12px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-style: italic;
+  text-align: center;
+  padding-top: 3%;
+}
+.login-page .hidden-xs .login-btn{
+  width: 120px;
+  height: 38px;
+  font-size: 13px;
+  font-family: "Lato";
+  color: rgb(255, 77, 3);
+  font-weight: bold;
+  text-align: center;
+  margin-top: 25px;
+  margin-left: 25px;
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px #98999b;
+}
+.login-page .visible-xs .login-btn{
+  width: 100%;
+  height: 38px;
+  font-size: 13px;
+  font-family: "Lato";
+  color: rgb(255, 77, 3);
+  font-weight: bold;
+  text-align: center;
+  margin-left: 25px;
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px #98999b;
+}
+/*#easypaisa-modal .modal-body input{
+ vertical-align: bottom !important;
+}
+*/
+.ad-dashboard .main-background-color .active  button,.analytics-page .main-background-color .active  button{
+	border: none;
+	height: 40px;
+	width: 100% !important;
+	background-color: white !important;
+	box-shadow: 2px 2px 2px #e1e2e2;
+	font-size: 13px;
+	font-family: "Lato";
+	color: black !important;
+	font-weight: bold;
+}
+.ad-dashboard .my-account-boxes button,.analytics-page .my-account-boxes button {
+	background-color: #e6e7e8 !important;
+	color: #a7a9ac !important;
+	border: none;
+	height: 40px;
+	width: 100% !important;
+
+	box-shadow: 2px 2px 2px #e1e2e2;
+	font-size: 13px;
+	font-family: "Lato";
+	
+	font-weight: bold;
+}
+.ad-dashboard .five-col-table thead tr th:first-child {
+	width: 5%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(2) {
+	width: 25%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(3) {
+	width: 10%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(4) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(5) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(6) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(7) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table thead tr th:last-child {
+	width: 15%;
+}
+
+
+.ad-dashboard .five-col-table tbody tr td:first-child {
+	width: 5%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(2) {
+	width: 25%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(3) {
+	width: 10%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(4) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(5) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(6) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(7) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table tbody tr td:last-child {
+	width: 15%;
+}
+.analytics-page .search-bar-parent {
+	position: relative;
+	width: 100%;
+}
+.analytics-page .search-bar-parent {
+	
+}
+.analytics-page .search-bar-child1 {
+	width: 90%;
+	display: inline-block;
+	float: left;
+}
+.analytics-page .search-bar-child2 {
+	width: 8%;
+	display: inline-block;
+	float: left;
+}
+.analytics-page .dropdown {
+	position: static !important;
+	margin-left: -5px;
+}
+.analytics-page .stylish-input-group {
+	width: 100%;
+}
+.analytics-page .stylish-input-group input {
+	border: none;
+	box-shadow: none;
+	border-bottom: 2px solid #ff4d03;
+	border-radius: 0;
+	background-color: transparent;
+}
+.analytics-page .dropdown button {
+	border: none;
+	box-shadow: none;
+	background-color: transparent;
+	color: #ff4d03;
+	font-size: 25px;
+	border-bottom: 2px solid #ff4d03;
+	margin-top: -5px;
+}
+.analytics-page .dropdown-menu {
+	border-radius: 0;
+	width: 93%;
+	background-color: white;
+	top: 32px !important;
+}
+.analytics-page .dropdown-menu .sub-menu {
+	border-radius: 0;
+	width: 50%;
+	background-color: white;
+}
+.analytics-page .dropdown-menu li {
+	height: 45px;
+	border-bottom: 1px solid #e7e8e8;
+}
+.analytics-page .dropdown-menu li a {
+	font-size: 15px;
+	font-family: "Montserrat";
+	color: rgb(0, 0, 0);
+	padding: 10px;
+}
+.analytics-page .dropdown-menu>li:hover>a {
+	color: white;
+	background-color: #ff4d03;
+}
+.analytics-page .dropdown-menu li:last-child {
+	border: none;
+}
+.analytics-page .dropdown-menu .sub-menu {
+	visibility: hidden;
+}
+.analytics-page .dropdown-menu li:hover .sub-menu {
+	visibility: visible;
+}
+.analytics-page .dropdown-menu li:hover .sub-menu {
+	left: auto;
+	right: 0 !important;
+	margin-right: -10px;
+}
+.analytics-page input::placeholder {
+	font-size: 9px;
+	font-family: "Lato";
+	color: rgb(109, 110, 113);
+}
+
+
+
+.campaigns-main-page .campaigns-main-boxes{
+
+	min-height: 230px;	
+  width: 100%;
+	background-color: white;
+	border:none;
+	box-shadow: 2px 2px 2px #e1e2e2;
+} 
+.campaigns-main-page .campaigns-main-boxes img{
+	margin:0 auto;
+	display: block;
+	padding-top: 10%;
+}
+.campaigns-main-page .campaigns-main-boxes .heading{
+	
+  font-size: 21.707px;
+  font-family: "Crete Round";
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-weight: bold;
+	padding-top: 10px;
+
+}
+.campaigns-main-page .campaigns-main-boxes .text{
+  font-size: 12px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+.campaigns-details-page .campaigns-details-top-box,.campaigns-audience-page .campaigns-details-top-box,.campaigns-rewards-page .campaigns-details-top-box,.campaigns-confirmation-page .campaigns-details-top-box{
+  width: 95%;
+  height: 69px;
+  background-color: white;
+  box-shadow: 2px 2px 2px #e1e2e2;
+}
+.campaigns-details-page .campaigns-details-top-box img,.campaigns-audience-page .campaigns-details-top-box img,.campaigns-rewards-page .campaigns-details-top-box img,.campaigns-confirmation-page .campaigns-details-top-box img{
+	height: 60px !important;
+	display: inline-block;
+	float: left;
+	padding: 10px 0 0 10px;
+}
+.campaigns-details-page .campaigns-details-top-box a,.campaigns-audience-page .campaigns-details-top-box a,.campaigns-rewards-page .campaigns-details-top-box a,.campaigns-confirmation-page .campaigns-details-top-box a{
+	display: inline-block;
+	float: right;
+  font-size: 18px;
+  font-family: "Lato";
+  color: rgb(65, 64, 66);
+  line-height: 2.077;
+  padding: 10px 10px 0 10px;
+
+}
+.campaigns-details-page .campaigns-details-top-box i,.campaigns-audience-page .campaigns-details-top-box i,.campaigns-rewards-page .campaigns-details-top-box i,.campaigns-confirmation-page .campaigns-details-top-box i{
+	font-size: 15px;
+	margin-right: 5px;
+}
+.campaigns-details-page .campaigns-details-parent-btn,.campaigns-audience-page .campaigns-details-parent-btn,.campaigns-rewards-page .campaigns-details-parent-btn,.campaigns-confirmation-page .campaigns-details-parent-btn{
+	text-align: center;
+}
+.campaigns-details-page .campaigns-details-top-btns,.campaigns-audience-page .campaigns-details-top-btns,.campaigns-rewards-page .campaigns-details-top-btns,.campaigns-confirmation-page .campaigns-details-top-btns{
+	display: inline-block !important;
+	height: 40px;
+	min-width: 20%;
+	text-align: center;
+}
+.campaigns-details-page .main-background-color .active button,.campaigns-audience-page .main-background-color .active button,.campaigns-rewards-page .main-background-color .active button,.campaigns-confirmation-page .main-background-color .active button{
+	border: none;
+	height: 40px;
+	width: 100% !important;
+	background-color: white !important;
+	box-shadow: 2px 2px 2px #e1e2e2;
+	font-size: 13px;
+	font-family: "Lato";
+	color: black !important;
+	font-weight: bold;
+}
+.campaigns-details-page .campaigns-details-top-btns button,.campaigns-audience-page .campaigns-details-top-btns button,.campaigns-rewards-page .campaigns-details-top-btns button,.campaigns-confirmation-page .campaigns-details-top-btns button{
+	background-color: #e6e7e8 !important;
+	color: #a7a9ac !important;
+	border: none;
+	height: 40px;
+	width: 100% !important;
+	box-shadow: 2px 2px 2px #e1e2e2;
+	font-size: 13px;
+	font-family: "Lato";
+	font-weight: bold;
+}
+.campaigns-details-page form,.campaigns-audience-page form,.campaigns-rewards-page form,.campaigns-confirmation-page form{
+	
+  font-size: 12px;
+  font-family: "Lato";
+  color: rgb(26, 26, 26);
+  font-weight: bold;
+
+}
+.campaigns-details-page .radio-inline span,.campaigns-audience-page .radio-inline span{
+	
+  font-size: 12px;
+  font-family: "Lato";
+  color: rgb(26, 26, 26);
+  font-weight: bold;
+
+}
+.campaigns-details-page form .radio-inline,.campaigns-audience-page form .radio-inline,.campaigns-rewards-page form .radio-inline,.campaigns-confirmation-page form .radio-inline{
+	margin-left: 5%;
+}
+.campaigns-details-page .form-group input,.campaigns-audience-page .form-group input,.campaigns-rewards-page .form-group input,.campaigns-confirmation-page .form-group input{
+	border: none;
+	border-bottom: 1px solid #f05023;
+	width: 100%;
+	background-color: transparent;
+	margin: 10px 0 10px 0;
+	box-shadow: none;
+	border-radius: 0;
+}
+.campaigns-details-page  form  button,.campaigns-rewards-page form  button,.campaigns-confirmation-page form  button{
+  width: 25%;
+  height: 32px;
+	border: none;
+	color: white;
+	background-color: #ff4d03;
+	border-radius: 5px;
+	display: block;
+	margin:0 auto;
+	margin-top: 10%;
+}
+.campaigns-details-page  form  button:hover,.campaigns-rewards-page form  button:hover,.campaigns-confirmation-page form  button:hover{
+
+	background-color: #FC9764;
+	color: white;
+	}
+.campaigns-audience-page .custom-select-boxes-parent{
+	text-align: center;
+}
+	
+.campaigns-audience-page .custom-select-boxes-parent .custom-select-boxes-child {
+	border:none;
+	background-color: white;
+	height: 35px;
+    display: inline-block;
+  	width: 18%;
+}
+.campaigns-audience-page .custom-select-boxes-parent .custom-select-boxes-child p{
+  vertical-align: middle;
+  display: table-cell;
+  font-size: 10px;
+  font-family: "Lato";
+  color: rgb(26, 26, 26);
+  width: 18%;
+  padding: 10px;
+  text-align: left;
+}
+.campaigns-audience-page .custom-select-boxes-parent .custom-select-boxes-child p i{
+	color:#ff4d03;
+	float:right;
+	font-size:13px;
+}
+.campaigns-audience-page .custom-select-boxes-parent .custom-select-boxes-child img{
+	float: right !important;
+	vertical-align: middle;
+}
+.campaigns-audience-page  form  .button-parent{
+	text-align: center;
+}
+.campaigns-audience-page  form  button{
+	  width: 20%;
+  height: 32px;
+	border: none;
+	color: white;
+	background-color: #ff4d03;
+	border-radius: 5px;
+	display: inline-block;
+	margin:0 auto;
+	margin-top: 5%;
+}
+.campaigns-audience-page  form  button:hover{
+	background-color: #FC9764;
+	color: white;
+}
+
+
+
+
+
+.campaigns-rewards-page form>.campaigns-session>#input1,#input2{
+	border: none;
+	border-bottom: 1px solid #f05023;
+	width: 45%;
+	background-color: transparent;
+	margin: 10px 0 10px 0;
+	box-shadow: none;
+	border-radius: 0;
+	display: inline-block;
+	float: left;
+}
+.campaigns-rewards-page .campaigns-session>label{
+	display: block;
+}
+.campaigns-rewards-page form  #input1{
+	background: white url(../images/calender.png) left no-repeat;
+   	background-color: transparent;
+   	margin-left: 15px;
+}
+.campaigns-rewards-page form  #input2{
+	background: white url(../images/clock.png) left no-repeat;
+    background-color: transparent;
+    margin-left: 15px;
+}
+.campaigns-rewards-page form .pkr-box{
+  width: 50%;
+	background-color: #ff4d03;
+  font-size: 15px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  height: 25px;
+  border: none;
+  border-radius: 5px;
+  text-align:center;
+  padding-top: 1%;
+  box-shadow: 2px 2px 2px #e1e2e2;
+}
+.campaigns-rewards-page form .custom-progress-bar .progress{
+	height: 12px;
+}
+.campaigns-rewards-page form .custom-progress-bar .progress-bar{
+	background-color: #ff4d03;
+}
+.campaigns-confirmation-page .details-sec p,.campaigns-confirmation-page .add-preview-box p{
+  font-size: 13px;
+  font-family: "Lato";
+  font-weight: bold;
+}
+.campaigns-confirmation-page .details-sec button{
+	width: 80%;
+  height: 32px;
+	border: none;
+	color: white;
+	background-color: #ff4d03;
+	border-radius: 5px;
+	
+	margin-top: 10%;
+}
+.campaigns-confirmation-page .add-preview-box{
+	min-height: 200px;
+	width: 118%;
+	border: none;
+	background-color: white;
+	box-shadow: 2px 2px 2px #e1e2e2;
+	margin-top: 10%;
+}
+.deposits-page .payment-method-box{
+	border: none;
+	color: white;
+	background-color: #6d6e71;
+	height: 40px;
+	padding: 10px 0 10px 10px;
+		text-align: left;
+	  font-size: 13px;
+	  font-family: "Lato";
+	  font-weight: bold;
+}
+.deposits-page .payment-boxes {
+	border: none;
+	height: 95px;
+	background-color: white !important;
+	box-shadow: 2px 2px 2px #e1e2e2;	
+}
+.deposits-page .payment-boxes:hover {
+	background-color: #fb4d03 !important;
+}
+.deposits-page .payment-boxes:hover p {
+	color: white !important;
+}
+.deposits-page .payment-boxes p {
+	
+	font-size: 20px;
+	font-family: "Crete Round";
+	color: rgb(0, 0, 0);
+	line-height: 1.659;
+	vertical-align: middle;
+	display: table-cell;
+	height: 100px;
+
+}
+.deposits-page .payment-boxes img {
+	padding-left: 20px;
+	padding-top: 20px;
+	height: 100%;
+}
+.deposits-page .payment-box-parent {
+	width: 100%;
+	clear: both;
+	overflow: hidden;
+}
+.deposits-page .payment-box-child1 {
+	width: 55%;
+	float: left;
+}
+.deposits-page .payment-box-child2 {
+	width: 45%;
+	float: left;
+}
+.deposits-page .panel-body .table {
+	height: 260px !important;
+}
+.deposits-page .five-col-table thead tr th:first-child {
+	width: 10%;
+}
+.deposits-page .five-col-table thead tr th:nth-child(2) {
+	width: 26%;
+}
+.deposits-page .five-col-table thead tr th:nth-child(3) {
+	width: 20%;
+	text-align: center !important; 
+}
+.deposits-page .five-col-table thead tr th:nth-child(4) {
+	width: 25%;
+	text-align: center !important;
+}
+.deposits-page .five-col-table thead tr th:last-child {
+	width: 20%;
+	text-align: center !important;
+}
+.deposits-page .five-col-table tbody tr td:first-child {
+	width: 10%;
+}
+.deposits-page .five-col-table tbody tr td:nth-child(2) {
+	width: 25%;
+}
+.deposits-page .five-col-table tbody tr td:nth-child(3) {
+	width: 20%;
+	text-align: center !important;
+}
+.deposits-page .five-col-table tbody tr td:nth-child(4) {
+	width: 27%;
+	text-align: center !important;
+}
+.deposits-page .five-col-table tbody tr td:last-child {
+	width: 20%;
+	text-align: center !important;
+}
+#creditcard-modal .modal-dialog,#cashondelivery-modal .modal-dialog {
+	width: 30%;
+	margin-top: 7%;
+}
+#creditcard-modal .modal-header p,#cashondelivery-modal .modal-header p  {
+	font-size: 20px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+	line-height: 1.5;
+	text-align: left;
+}
+#creditcard-modal .modal-header, .modal-footer,#cashondelivery-modal .modal-header, .modal-footer {
+	border: none !important;
+}
+#creditcard-modal .modal-title,#cashondelivery-modal .modal-title {
+	padding-top: 5%;
+}
+#creditcard-modal .modal-body p,#cashondelivery-modal .modal-body p {
+	font-size: 14px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+}
+#creditcard-modal .modal-body label,#cashondelivery-modal .modal-body label {
+	font-size: 12px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+}
+#creditcard-modal .modal-body .text p,#cashondelivery-modal .modal-body .text p {
+	margin: 0 0 3px 0 !important;
+}
+#creditcard-modal .modal-body .text input,#cashondelivery-modal .modal-body .text input {
+	border: none;
+	border-bottom: 1px solid #ffffff;
+	background-color: transparent;
+	margin-bottom: 15px;
+	width: 85%;
+}
+#creditcard-modal .modal-footer,#cashondelivery-modal .modal-footer {
+	padding: 15px 0 30px 0 !important;
+	text-align: center !important;
+}
+#creditcard-modal .modal-footer button,#cashondelivery-modal .modal-footer button {
+	border: none;
+	background-color: white;
+	color: #ff4d03;
+	height: 30px;
+	width: 50%;
+	border-radius: 7px;
+	font-size: 12.245px;
+	font-family: "Lato";
+	margin-left: -15% !important;
+}
+/*#easypaisa-modal .modal-body input{
+ vertical-align: bottom !important;
+}
+*/
+
+/* ::-webkit-scrollbar-track {
+	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+	border-radius: 10px;
+	background-color: #F5F5F5;
+} */
+/* Let's get this party started */
+::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+/* Track */
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: rgba(255,0,0,0.8); 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+::-webkit-scrollbar-thumb:window-inactive {
+	background: rgba(255,0,0,0.4); 
+}
+@media all and (max-width: 292px) {
+	.top-boxes .text1 {
+		padding-left: 2%;
+	}
+	.top-boxes .text2 {
+		padding-right: 2%;
+	}
+	
+}
+@media all and (max-width: 376px) {
+	
+}
+@media all and (max-width: 480px) {
+	.tasks-text {
+		width: 25% !important;
+		float: right !important;
+	}
+}
+@media all and (max-width: 555px) {
+	.table-spacing1 {
+		width: 100% !important;
+	}
+	.table-spacing2 {
+		width: 100% !important;
+	}
+	.table-spacing3 {
+		width: 100% !important;
+	}
+	.last-table-spacing {
+		width: 100% !important;
+	}
+	#easypaisa-modal .modal-dialog {
+		width: 75% !important;
+
+	}
+	#recharge-modal .modal-dialog {
+		width: 75% !important;
+	}
+	.my-account-page .form-inline .display,
+	.display-2 {
+		display: block;
+		width: 90%;
+		padding-left: 0 !important
+	}
+	.my-account-page .third-form button {
+		width: 50%;
+	}
+}
+@media all and (max-width: 767px) {
+	.main-background-color{
+		padding-left: 0 !important;
+	}
+	.login-details {
+		padding: 0;
+	}
+	#side-menu li img {
+		padding-top: 3%;
+	}
+	.sidebar-links {
+		padding-bottom: 3% !important;
+	}
+	.table-responsive {
+		overflow-y: visible !important;
+	}
+	.slick-slide img {
+		padding: 10px;
+	}
+	.last-table-spacing .panel-body .text {
+		padding: 0 0 0 10px;
+	}
+	.last-table-spacing .panel-body .date {
+		padding: 0 0 0 10px;
+	}
+	.last-table-spacing .panel-body .coins-text {
+		padding: 0 0 0 10px;
+	}
+	.block-inline-child1 {
+		width: 100%;
+	}
+	.block-inline-child2 {
+		width: 100%;
+	}
+	.table-spacing1 {
+		width: 50%;
+		display: inline-block;
+	}
+	.table-spacing2 {
+		width: 50%;
+		display: inline-block;
+	}
+	.table-spacing3 {
+		width: 50%;
+		display: inline-block;
+	}
+	.last-table-spacing {
+		width: 50%;
+		display: inline-block;
+	}
+	.five-col-table tbody tr td:nth-child(2) {
+		word-break: break-all !important;
+		width: 5%;
+	}
+	#easypaisa-modal .modal-dialog {
+		width: 50%;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+	#recharge-modal .modal-dialog {
+		width: 50%;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+	#creditcard-modal .modal-dialog {
+		width: 50%;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+	#cashondelivery-modal .modal-dialog {
+		width: 50%;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+	.my-account-page .form-inline button {
+		width: 50%;
+		display: block !important;
+		margin-left: 40%;
+		margin-top: 5% !important;
+	}
+	.my-account-page .second-form button:last-child {
+		margin-top: 10% !important;
+		width: 160% !important;
+	
+	}
+	.my-account-page .third-form button {
+		width: 50% !important;
+	}
+}
+@media all and (max-width: 1040px) {
+	.table-spacing1 .panel-body .table {
+		height: 114px !important;
+	}
+	#easypaisa-modal .modal-dialog {
+		width: 35%;
+	}
+	#recharge-modal .modal-dialog {
+		width: 35%;
+	}
+	.my-account-page .second-form button:last-child {
+		margin-top: 10%;
+		width: 180%;
+	}
+	.my-account-page .third-form button {
+		width: 25%;
+	}
+}
+@media all and (max-width: 1140px) {
+	.campaigns-audience-page .custom-select-boxes-parent .custom-select-boxes-child{
+		width: 30%;
+	}
+
+}
+@media all and (max-width: 1232px) {
+	.table-spacing1 {
+		width: 49%;
+		display: inline-block;
+	}
+	.table-spacing2 {
+		width: 49%;
+		display: inline-block;
+	}
+	.table-spacing3 {
+		width: 49%;
+		display: inline-block;
+	}
+	.last-table-spacing {
+		width: 49%;
+		display: inline-block;
+	}
+}
+@media all and (max-width: 1260px) {
+	.block-inline-child1 {
+		width: 97%;
+	}
+	.block-inline-child2 {
+		width: 98%;
+	}
+	.tasks-text {
+		width: 50%;
+		float: left;
+	}
+}
+@media all and (max-width: 1213px) {
+	.campaigns-details-page form:first-child .radio-inline{
+		display: block !important;
+		margin-left: 10px;
+		padding-top: 5%;
+	}	
+	.campaigns-details-page form .radio-inline{
+		display: block !important;
+		padding-top: 5%;
+	}	
+}
+@media all and (max-width: 1260px) and (min-width: 992px) {
+	.my-account-page .img-sec img {
+		height: 65px !important;
+	}
+	.my-account-page .img-sec button:last-child {
+		margin-top: 30%;
+	}
+	.campaigns-details-page .form .radio-inline{
+		display: block !important;
+	}
+}
+@media all and (max-width: 1330px) {
+	.my-account-page .img-sec img {
+		height: 90px;
+	}
+}
+@media all and (max-width: 1024px) and (min-width: 530px) {
+	.login-page{
+		background-size: cover;
+	}
+	.login-page .content{
+	position: absolute;
+	overflow-y: scroll !important;
+	width: 100%;
+	height: 100%;
+}
+}
+@media all and (max-width: 1330px) and (min-width: 1233px) {
+	.table-spacing1 .panel-body .table {
+		height: 114px !important;
+	}
+}
+@media all and (max-width: 1082px) and (min-width: 992px) {
+	.ad-dashboard .top-boxes #text1,#text2,.analytics-page .top-boxes #text1,#text2{
+		font-size: 10px !important;
+		padding-top: 3%;
+
+	}
+}
+@media all and (max-width: 1218px) and (min-width: 992px) {
+	.analytics-page .top-boxes #text1,#text2{
+		font-size: 8px !important;
+		padding-top: 5%;
+
+	}
+}
+@media all and (max-width: 867px) and (min-width: 767px) {
+	.redeem-page .payment-boxes img {
+		float: right !important;
+		padding-right: 5px;
+	}
+}
