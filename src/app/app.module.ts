@@ -12,6 +12,8 @@ import { MenuComponent } from './components/menues/menu/menu.component';
 import {ActiveCampaignsComponent} from './components/dashboard/ad-dashboard/active-campaigns/active-campaigns.component';
 import { MaterialModule } from './material.module';
 import { AllCompaignsComponent } from './components/dashboard/ad-dashboard/all-compaigns/all-compaigns.component';
+import { StatisticsBarComponent } from './components/dashboard/ad-dashboard/statistics-bar/statistics-bar.component';
+import { TableComponent } from './components/dashboard/ad-dashboard/table/table.component';
 
 
 
@@ -25,7 +27,9 @@ import { AllCompaignsComponent } from './components/dashboard/ad-dashboard/all-c
     AdDashboardComponent,
     MenuComponent,
     ActiveCampaignsComponent,
-    AllCompaignsComponent
+    AllCompaignsComponent,
+    StatisticsBarComponent,
+    TableComponent
   ],
   imports: [
     BrowserModule,
