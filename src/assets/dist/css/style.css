@@ -102,14 +102,7 @@
 .login-details {
 	padding: 10% 0 10% 0;
 }
-.login-person {
-	font-size: 11px;
-	font-family: "Lato";
-	color: rgb(255, 255, 255);
-	line-height: 1.2;
-	text-align: center;
-	padding-left: 10px;
-}
+
 .sidebar-links {
 	font-size: 11px;
 	font-family: "Lato";
@@ -149,57 +142,7 @@
 	line-height: 1.2;
 	text-align: left;
 }
-.top-boxes {
-	border: none;
-	min-height: 50px;
-	background-color: white !important;
-	box-shadow: 2px 2px 2px #e1e2e2;
-}
-.popular-boxes {
-	border: none;
-	min-height: 185px;
-	background-color: white !important;
-	box-shadow: 2px 2px 2px #e1e2e2;
-}
-.popular-boxes img {
-	width: 97%;
-}
-.popular-boxes p {
-	font-weight: bold;
-	font-size: 9px;
-	font-family: "Lato";
-	color: rgb(26, 26, 26);
-	padding-left: 2px;
-}
-.top-boxes img {
-	padding-left: 5%;
-}
-.top-boxes #text1 {
-	padding-left: 10%;
-	font-size: 12px;
-	font-family: "Lato";
-	color: rgb(26, 26, 26);
-	font-weight: bold;
-	line-height: 1.2;
-}
-.top-boxes #text2 {
-	/*padding-top: 2%;*/
-	float: right;
-	padding-right: 10%;
-	font-size: 12px;
-	font-family: "Lato";
-	color: rgb(26, 26, 26);
-	font-weight: bold;
-	/*line-height: 1.2;*/
-	vertical-align: middle;
-}
-.number {
-	font-size: 16.31px !important;
-	font-family: "Lato";
-	color: rgb(255, 77, 3);
-	font-weight: bold;
-	color: #fb4d03 !important;
-}
+
 .tasks-available-box {
 	background-color: white;
 	width: 100%;
@@ -320,30 +263,11 @@ hr {
 	line-height: 1.2;
 	padding: 1% 0 0 1%;
 }
-.table-1 span {
-	font-size: 12px;
-	font-family: "Lato";
-	color: rgb(26, 26, 26);
-	line-height: 1.2;
-}
-#page-wrapper .table tr th {
-	font-size: 12px;
-	font-family: "Lato";
-	color: rgb(109, 110, 113);
-	line-height: 1.2;
-	text-align: left;
-	font-weight: bold;
-}
-#page-wrapper .table tr td {
-	font-size: 10px;
-	font-family: "Lato";
-	color: rgb(26, 26, 26);
-	line-height: 1.2;
-	text-align: left;
-	font-weight: bold;
-}
+
+
+
 #page-wrapper .table {
-	display: inline-block;
+	/* display: inline-block; */
 	vertical-align: top;
 }
 /*#page-wrapper .table thead,
