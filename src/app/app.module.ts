@@ -9,11 +9,16 @@ import { InterestsComponent } from './components/auth/interests/interests.compon
 import { SignInComponent } from './components/auth/sign-in/sign-in.component';
 import { AdDashboardComponent } from './components/dashboard/ad-dashboard/ad-dashboard.component';
 import { MenuComponent } from './components/menues/menu/menu.component';
-import {ActiveCampaignsComponent} from './components/dashboard/ad-dashboard/active-campaigns/active-campaigns.component';
+import { ActiveCampaignsComponent } from './components/dashboard/ad-dashboard/active-campaigns/active-campaigns.component';
 import { MaterialModule } from './material.module';
 import { AllCompaignsComponent } from './components/dashboard/ad-dashboard/all-compaigns/all-compaigns.component';
-import { StatisticsBarComponent } from './components/dashboard/ad-dashboard/statistics-bar/statistics-bar.component';
 import { TableComponent } from './components/dashboard/ad-dashboard/table/table.component';
+import { AdMyAccountComponent} from './components/accounts/ad-my-account/ad-my-account.component';
+import { StatisticsBarComponent } from './components/dashboard/ad-dashboard/statistics-bar/statistics-bar.component';
+import { AcStatisticsComponent } from './components/accounts/ac-statistics/ac-statistics.component';
+import { AcFormComponent } from './components/accounts/ac-form/ac-form.component';
+
+
 
 
 
@@ -28,8 +33,11 @@ import { TableComponent } from './components/dashboard/ad-dashboard/table/table.
     MenuComponent,
     ActiveCampaignsComponent,
     AllCompaignsComponent,
+    TableComponent,
+    AdMyAccountComponent,
     StatisticsBarComponent,
-    TableComponent
+    AcStatisticsComponent,
+    AcFormComponent,
   ],
   imports: [
     BrowserModule,

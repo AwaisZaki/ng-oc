@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class StatisticsBarComponent implements OnInit {
 
+  
   constructor() { }
 
   ngOnInit() {

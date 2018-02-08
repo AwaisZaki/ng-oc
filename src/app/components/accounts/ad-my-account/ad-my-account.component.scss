@@ -1,0 +1,198 @@
+.float-left-div{
+	float: right;
+}
+.ad-dashboard .main-background-color .active  button,.analytics-page .main-background-color .active  button{
+	border: none;
+	height: 40px;
+	width: 100% !important;
+	background-color: white !important;
+	box-shadow: 2px 2px 2px #e1e2e2;
+	font-size: 13px;
+	font-family: "Lato";
+	color: black !important;
+	font-weight: bold;
+}
+.ad-dashboard .my-account-boxes button,.analytics-page .my-account-boxes button {
+	background-color: #e6e7e8 !important;
+	color: #a7a9ac !important;
+	border: none;
+	height: 40px;
+	width: 100% !important;
+
+	box-shadow: 2px 2px 2px #e1e2e2;
+	font-size: 13px;
+	font-family: "Lato";
+	
+	font-weight: bold;
+}
+.welcome-text {
+	font-size: 25.707px;
+	font-family: "Crete Round";
+	color: rgb(0, 0, 0);
+	line-height: 1.2;
+	text-align: center;
+}
+.ad-dashboard .five-col-table thead tr th:first-child {
+	width: 5%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(2) {
+	width: 25%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(3) {
+	width: 10%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(4) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(5) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(6) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(7) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table thead tr th:last-child {
+	width: 15%;
+}
+
+
+.ad-dashboard .five-col-table tbody tr td:first-child {
+	width: 5%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(2) {
+	width: 25%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(3) {
+	width: 10%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(4) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(5) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(6) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(7) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table tbody tr td:last-child {
+	width: 15%;
+}
+
+
+.ad-dashboard .main-background-color .active  button,.analytics-page .main-background-color .active  button{
+	border: none;
+	height: 40px;
+	width: 100% !important;
+	background-color: white !important;
+	box-shadow: 2px 2px 2px #e1e2e2;
+	font-size: 13px;
+	font-family: "Lato";
+	color: black !important;
+	font-weight: bold;
+}
+.ad-dashboard .my-account-boxes button,.analytics-page .my-account-boxes button {
+	background-color: #e6e7e8 !important;
+	color: #a7a9ac !important;
+	border: none;
+	height: 40px;
+	width: 100% !important;
+
+	box-shadow: 2px 2px 2px #e1e2e2;
+	font-size: 13px;
+	font-family: "Lato";
+	
+	font-weight: bold;
+}
+.ad-dashboard .five-col-table thead tr th:first-child {
+	width: 5%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(2) {
+	width: 25%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(3) {
+	width: 10%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(4) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(5) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(6) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table thead tr th:nth-child(7) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table thead tr th:last-child {
+	width: 15%;
+}
+
+
+.ad-dashboard .five-col-table tbody tr td:first-child {
+	width: 5%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(2) {
+	width: 25%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(3) {
+	width: 10%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(4) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(5) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(6) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table tbody tr td:nth-child(7) {
+	width: 15%;
+}
+.ad-dashboard .five-col-table tbody tr td:last-child {
+	width: 15%;
+}
+
+/* TABS */
+mat-card-content h2{
+
+	
+	text-align: center;
+
+}
+::ng-deep .mat-tab-labels{
+	justify-content: center!important; /* align items in Main Axis */
+	
+    
+}
+::ng-deep .mat-tab-label{
+	background-color: white !important;
+	box-shadow: 2px 2px 2px #e1e2e2;
+	font-size: 14px;
+	font-weight: bold!important;
+    font-family: "Lato"!important;
+    color: black !important;
+    font-weight: bold!important;
+}
+::ng-deep .mat-tab-group.mat-primary .mat-ink-bar {
+    background-color: #fb4d03;
+}
+/* End TABS */
+
+.inputdemoIcons {
+    /*
+  .right-icon {
+    position: absolute;
+    top: 4px;
+    right: 2px;
+    left: auto;
+    margin-top: 0;
+  }
+  */ }
+   
