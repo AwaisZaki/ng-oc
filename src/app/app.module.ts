@@ -2,7 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule, NO_ERRORS_SCHEMA } from '@angular/core';
 // import {MatTableModule} from '@angular/material/table';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
-import { MDBBootstrapModule } from 'angular-bootstrap-md';
+// import { MDBBootstrapModule } from 'angular-bootstrap-md';
 import { AppComponent } from './app.component';
 import { LoginComponent } from './components/auth/login/login.component';
 import { InterestsComponent } from './components/auth/interests/interests.component';
@@ -41,7 +41,7 @@ import { AcFormComponent } from './components/accounts/ac-form/ac-form.component
   ],
   imports: [
     BrowserModule,
-    MDBBootstrapModule.forRoot(),
+    // MDBBootstrapModule.forRoot(),
     BrowserAnimationsModule,
     MaterialModule
   ],
